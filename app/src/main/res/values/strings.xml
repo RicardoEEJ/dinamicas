@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">vistas complejas y dinamicas</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="confirm">CONFIRM</string>
+    <string name="ForgotPassword">Forgot Password  Get New</string>
+    <string name="CreateAccount">Do You Have an Account?  Create New</string>
+    <string name="todo">TODO</string>
+</resources>
